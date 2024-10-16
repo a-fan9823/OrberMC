@@ -1,0 +1,10 @@
+{
+    "replace":false,
+    "values": [
+        "orbermc:oreber",
+        "orbermc:deepslate_oreber",
+        "orbermc:pure_void_block",
+        "orbermc:crying_void",
+        "orbermc:pure_light_block"
+    ]
+}

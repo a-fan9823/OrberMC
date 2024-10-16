@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "epe",
+    "ava",
+    "epe"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:echo_shard"
+    },
+    "p": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "a": {
+      "item": "minecraft:ender_pearl"
+    },
+    "v": {
+      "item": "orbermc:crying_void"
+    }
+  },
+  "result": {
+    "id": "orbermc:pure_void_block",
+    "count": 1
+  },
+  "show_notification": true
+}

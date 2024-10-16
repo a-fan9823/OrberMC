@@ -1,0 +1,20 @@
+{
+    "item.orbermc.orber": "orber",
+    "block.orbermc.pure_void_block": "Block of pure void",
+    "itemgroup.orbermc.orbermc_items": "OrberMC Items",
+    "block.orbermc.crying_void": "Crying void",
+    "block.orbermc.pure_light_block": "Block of pure light",
+    "block.orbermc.oreber": "Oreber",
+    "item.orbermc.deepfried_orber": "Deepfried orber",
+    "block.orbermc.deepslate_oreber": "Deepslate oreber",
+    "effect.orbermc.divine_protection": "Divine protection",
+    "block.orbermc.black_bouncy_castle":"Black bouncy castle block",
+    "block.orbermc.blue_bouncy_castle":"Blue bouncy castle block",
+    "block.orbermc.cyan_bouncy_castle":"Cyan bouncy castle block",
+    "block.orbermc.gray_bouncy_castle":"Gray bouncy castle block",
+    "block.orbermc.green_bouncy_castle":"Green bouncy castle block",
+    "block.orbermc.magenta_bouncy_castle":"Magenta bouncy castle block",
+    "block.orbermc.red_bouncy_castle":"Red bouncy castle block",
+    "block.orbermc.white_bouncy_castle":"White bouncy castle block",
+    "block.orbermc.yellow_bouncy_castle":"Yellow bouncy castle block"
+}

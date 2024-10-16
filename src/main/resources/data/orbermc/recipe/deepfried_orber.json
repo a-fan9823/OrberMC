@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:blasting",
+    "category": "food",
+    "ingredient": {
+      "item": "orbermc:orber"
+    },
+    "result": {
+      "id": "orbermc:deepfried_orber"
+    },
+    "experience": 14,
+    "cookingtime": 73
+  }
+  

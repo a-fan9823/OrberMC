@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "orbermc:block/pure_void_block"
+    }
+  }

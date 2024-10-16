@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "epe",
+    "ava",
+    "epe"
+  ],
+  "key": {
+    "e": {
+      "item": "minecraft:echo_shard"
+    },
+    "v": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "a": {
+      "item": "minecraft:ender_eye"
+    },
+    "p": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "id": "orbermc:crying_void",
+    "count": 1
+  },
+  "show_notification": true
+}

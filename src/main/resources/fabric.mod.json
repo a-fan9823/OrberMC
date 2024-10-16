@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "orbermc",
+	"version": "${version}",
+	"name": "OrberMC",
+	"description": "Praise be the Orber!",
+	"authors": [
+		"Walmart Wan"
+	],
+	"contact": {
+		"homepage": "https://twitch.tv/cerbervt"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/orbermc/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ExampleMod"
+		],
+		"client": [
+			"com.example.ExampleModClient"
+		]
+	},
+	"mixins": [
+		"modid.mixins.json",
+		{
+			"config": "modid.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

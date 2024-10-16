@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "ggg",
+    "gag",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "a": {
+      "item": "orbermc:pure_void_block"
+    }
+  },
+  "result": {
+    "id": "orbermc:pure_light_block",
+    "count": 1
+  },
+  "show_notification": true
+}
