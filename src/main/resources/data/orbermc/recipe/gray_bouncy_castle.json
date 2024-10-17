@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "sds",
+    "sws",
+    "sSs"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:string"
+    },
+    "w": {
+      "tag": "minecraft:wool"
+    },
+    "d": {
+      "item": "minecraft:gray_dye"
+    },
+    "S":{
+      "item": "minecraft:slime_block"    
+    }
+  },
+  "result": {
+    "id": "orbermc:gray_bouncy_castle",
+    "count": 1
+  }
+}
