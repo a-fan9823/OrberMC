@@ -30,14 +30,12 @@ public static final RegistryKey<PlacedFeature> CUSTOM_ORE_PLACED_KEY = RegistryK
 	@Override
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
-
 		//effect definition
 		Registry.registerReference(Registries.STATUS_EFFECT, Identifier.of(MOD_ID, "divine_protection"), DIVINE_PROT);
 		DIVINE_PROTECTION_ENTRY = Registries.STATUS_EFFECT.getEntry(DIVINE_PROT);
-
 		//ore gen definition
 		BiomeModifications.addFeature(BiomeSelectors.foundInOverworld(), GenerationStep.Feature.UNDERGROUND_ORES, CUSTOM_ORE_PLACED_KEY);
-
+		
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}

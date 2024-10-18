@@ -16,5 +16,7 @@
     "block.orbermc.magenta_bouncy_castle":"Magenta bouncy castle block",
     "block.orbermc.red_bouncy_castle":"Red bouncy castle block",
     "block.orbermc.white_bouncy_castle":"White bouncy castle block",
-    "block.orbermc.yellow_bouncy_castle":"Yellow bouncy castle block"
+    "block.orbermc.yellow_bouncy_castle":"Yellow bouncy castle block",
+    "item.orbermc.mogu_disc":"Music Disc",
+    "item.orbermc.diggy_disc":"Music Disc"
 }

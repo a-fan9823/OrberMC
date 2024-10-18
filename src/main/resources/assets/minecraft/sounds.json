@@ -1,0 +1,17 @@
+{
+    "music_disc.mogu": {
+        "sounds": [
+            {
+            "name": "records/mogu"
+            }
+        ]
+    },
+    "music_disc.diggy": {
+        "sounds": [
+            {
+            "name": "records/diggy"
+            }
+        ]
+    }
+    }
+    
