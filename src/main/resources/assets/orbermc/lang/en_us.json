@@ -18,5 +18,10 @@
     "block.orbermc.white_bouncy_castle":"White bouncy castle block",
     "block.orbermc.yellow_bouncy_castle":"Yellow bouncy castle block",
     "item.orbermc.mogu_disc":"Music Disc",
-    "item.orbermc.diggy_disc":"Music Disc"
+    "item.orbermc.diggy_disc":"Music Disc",
+    "item.orbermc.pickax":"Cerber approved pickaxe",
+    "item.orbermc.shove":"Shovel of orber",
+    "item.orbermc.swerd":"Sword of orber",
+    "item.orbermc.hoe":"Hoe of orber",
+    "item.orbermc.acks":"Axe of orber"
 }
